@@ -1,3 +1,4 @@
+# HR Dashboard Project
 library(tidyverse)
 library(dplyr)
 library(tidyr)
